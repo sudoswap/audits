@@ -1,3 +1,3 @@
 # Audits
 
-This repository contains audits for the upcoming sudoswap AMM smart contracts.
+This repository contains audits for the sudoswap AMM smart contracts.
